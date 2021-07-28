@@ -13,7 +13,7 @@ Para executar a suíte de testes execute o comando:
 ```
 mvn clean test
 ```
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+Para visualizar a execução do projeto basta abrir o seguinte endereço:
 ```
 http://localhost:8080/api/v1/beers
 ```
